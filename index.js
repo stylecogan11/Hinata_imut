@@ -1,8 +1,8 @@
-const  RBOT = 'RIBASBOT'; // Nama BOT Whatsapp
-const instagram = 'https://instagram.com/rbs.420?igshid=1edbmclj7n9rl'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282193030283'; // Nomor whatsapplu cok
+const  RBOT = 'Hinata_imut'; // Nama BOT Whatsapp
+const instagram = 'https://www.instagram.com/cogan_112/'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6289509938750'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/Cn1l7gm2GXK1ko9wh4qJQU'; // OFFICIAL GRUP LU 1
+const groupwa = 'https://chat.whatsapp.com/DTYZirAR5jwH8qfU1gxSeI'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCVoeo63MfuTBPXlbj-ldX3Q'; 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
