@@ -21,9 +21,9 @@ const speed = require('performance-now');
 const readTextInImage = require('./lib/ocr')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:ribasyt\n' // full name
-            + 'ORG:Owner  RBOT Bot;wa.me/+6282193030283\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6282193030283:+62 821-9303-0283\n' // WhatsApp ID + phone number
+            + 'FN:Stylecogan\n' // full name
+            + 'ORG:Owner  RBOT Bot;wa.me/+6289509938750\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6289509938750:+62 895-0993-8750\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 
 const
